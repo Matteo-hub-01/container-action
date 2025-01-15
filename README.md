@@ -3,7 +3,7 @@
 [![GitHub Super-Linter](https://github.com/actions/container-action/actions/workflows/linter.yml/badge.svg)](https://github.com/super-linter/super-linter)
 ![CI](https://github.com/actions/container-action/actions/workflows/ci.yml/badge.svg)
 
-Use this template to bootstrap the creation of a container action. :rocket:
+Use this template to bootstrap the creation of a container action. :rocket:..
 
 This template includes compilation support, tests, a validation workflow,
 publishing, and versioning guidance.
